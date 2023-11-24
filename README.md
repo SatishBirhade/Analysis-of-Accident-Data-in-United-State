@@ -15,3 +15,6 @@ During my tenure, I undertook a significant project focused on leveraging the US
 3) Identifying factors contributing to accident severity.
 4) Extracting valuable insights from the dataset through statistical analysis and data visualization.
 5) Supporting for the other them members.
+
+### PowerBi dashboard : https://app.powerbi.com/links/gileRCAyhw?ctid=a9e08476-74a2-4930-874e-0fc97df69b2a&pbi_source=linkShare
+
